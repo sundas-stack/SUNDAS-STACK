@@ -1,20 +1,23 @@
 # Hi, I'm Sundas Maria Hayat 👋
 
-**Mobile App Developer · Front-End Developer · Data Analyst**
+**AI Engineer · Mobile App Developer · Data Analyst**
 
-Software Engineering student at Air University (graduating 2027), working full-time and remotely at **Sky Premia LLC** (USA). I build React Native apps, API-driven interfaces and Python automation for travel operations, and I analyze flight data to support client decisions.
+Software Engineering graduate from Air University, working full-time and remotely at **Sky Premia LLC** (USA). I build AI-powered automation, React Native apps and API-driven interfaces, and I analyze data to support client decisions.
 
 ---
 
 ## What I do
 
-- 📱 Build cross-platform mobile apps with **React Native, Expo and TypeScript**
+- 🤖 Build AI automation with **Python, OCR and LLMs**
+- 🧠 Train machine learning models with **TensorFlow and PyTorch**
+- 📱 Develop cross-platform mobile apps with **React Native, Expo and TypeScript**
 - 🔌 Integrate APIs to bring real-time data into clean, usable front ends
-- 🤖 Automate business workflows with **Python, OCR and LLMs**
-- 🌐 Develop business websites with **WordPress**
-- 📊 Research and compare data to turn it into clear recommendations for clients
+- 📊 Analyze and visualize data with **Python, SQL and Power BI**
+- 🌐 Build business websites with **WordPress**
 
 ---
+
+
 
 ## Featured Projects
 
