@@ -19,6 +19,7 @@ Software Engineering graduate from Air University, working full-time and remotel
 
 
 
+
 ## Featured Projects
 
 > Most of these were built for Sky Premia, so the source code is private. Each project page shows what I built, the tech stack and screenshots.
