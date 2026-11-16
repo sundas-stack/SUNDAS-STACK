@@ -1,192 +1,53 @@
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sundas&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Generative%20AI&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+intelligent+systems+that+ship+to+production;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+Computer+Vision;From+research+notebooks+to+scalable+APIs;Turning+data+into+decisions" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1120,50:1E1B4B,100:312E81&height=260&section=header&text=Sundas&fontSize=80&fontColor=E0E7FF&fontAlignY=42&desc=AI%20Engineer%20%20%E2%80%A2%20%20Mobile%20%26%20Web%20Developer&descSize=22&descAlignY=64&descColor=A5B4FC&animation=fadeIn&stroke=6366F1&strokeWidth=1" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO-SITE"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://huggingface.co/YOUR-HF"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-  <img src="https://komarev.com/ghpvc/?username=sundas619&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=720&lines=I+build+intelligent%2C+production-ready+software.;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+Machine+Learning;React+Native+apps+with+real-time+API+integrations;From+idea+%E2%86%92+prototype+%E2%86%92+shipped+product." />
 
----
-
-## 👩‍💻 About Me
-
-```python
-class Sundas:
-    role        = "AI Engineer"
-    based_in    = "Pakistan 🇵🇰"
-    focus       = ["Generative AI", "LLM Applications", "Machine Learning", "MLOps"]
-    building    = "Production-grade RAG pipelines & autonomous AI agents"
-    learning    = ["LLM fine-tuning (LoRA / QLoRA)", "Multi-agent systems", "LLMOps"]
-    philosophy  = "A model is only as good as the system it ships in."
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something intelligent together. 🚀")
-```
-
-- 🧠 I design and ship **end-to-end AI systems**: data pipelines, model training, evaluation, and deployment.
-- 🤖 I work with **LLMs, RAG, and AI agents**, turning foundation models into reliable products.
-- 📊 Strong base in **classical ML, deep learning, and data analysis**.
-- ⚙️ I care about **clean code, reproducibility, and MLOps**: experiments tracked, models versioned, APIs tested.
-- 🤝 Open to **AI/ML Engineer roles, freelance projects, and open-source collaboration**.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🧩 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java&theme=dark" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="48"/>
-</p>
-
-### 🧠 Machine Learning & Deep Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black"/>
-</p>
-
-### ✨ Generative AI & LLMs
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-</p>
-
-**Core GenAI skills:** Prompt Engineering · RAG (Retrieval-Augmented Generation) · Fine-tuning (LoRA / QLoRA / PEFT) · AI Agents & Tool Calling · MCP · Embeddings & Semantic Search · LLM Evaluation (RAGAS, LLM-as-judge) · Guardrails · Multimodal AI
-
-### 🗄️ Vector Databases & Data Stores
-<p>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Weaviate-00C29A?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" />
-</p>
-
-### 📊 Data Science & Analytics
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-### 🚀 Backend, Deployment & MLOps
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,docker,kubernetes,githubactions&theme=dark" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,linux,git,github,vscode&theme=dark" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-</p>
-
-<details>
-<summary><b>📋 Full AI Engineer skill map (click to expand)</b></summary>
 <br/>
 
-| Area | Skills |
-|---|---|
-| **Math & Foundations** | Linear Algebra · Probability & Statistics · Calculus · Optimization · Information Theory |
-| **Classical ML** | Regression · Classification · Clustering · Ensembles (RF, XGBoost) · Feature Engineering · Model Selection · Cross-validation |
-| **Deep Learning** | CNNs · RNNs / LSTMs · Transformers · Attention · Transfer Learning · Regularization · Hyperparameter Tuning |
-| **NLP** | Tokenization · Embeddings · NER · Sentiment Analysis · Text Classification · Summarization · Translation |
-| **Computer Vision** | Image Classification · Object Detection (YOLO) · Segmentation · OCR · Image Augmentation |
-| **Generative AI** | LLMs · Prompt Engineering · RAG · Fine-tuning (LoRA/QLoRA) · Agents · Function Calling · MCP · Diffusion Models |
-| **LLMOps / Eval** | RAGAS · LLM-as-judge · Tracing (LangSmith) · Guardrails · Cost & Latency Optimization · Caching |
-| **Time Series** | Forecasting · LSTM · ARIMA · Lag/Rolling Features · Anomaly Detection |
-| **MLOps** | Experiment Tracking · Model Registry · CI/CD · Docker · Monitoring & Drift Detection |
-| **Software Engineering** | REST APIs · Async Python · Testing (pytest) · Clean Architecture · Git workflows |
-| **Data Engineering** | ETL Pipelines · Web Scraping · SQL · Data Cleaning · Airflow basics |
+<a href="mailto:sundasmaria09@gmail.com"><img src="https://img.shields.io/badge/Email-sundasmaria09%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/sundas-stack?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-111827?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=sundas-stack&style=flat-square&color=6366F1&label=Profile+Views"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=flat-square"/>
 
-</details>
+</div>
 
----
+<br/>
 
-## 🚀 Featured Projects
-
-> Replace the items below with your own projects. Each one links to its repo.
+## ⚡ About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🤖 [PROJECT NAME 1](https://github.com/sundas619/REPO-1)
-**One-line description of what it does and the problem it solves.**
+I'm **Sundas**, an **AI Engineer and developer from Pakistan 🇵🇰** who builds software that people actually use.
 
-- 🔹 Key feature / technique used
-- 🔹 Measurable result (e.g. accuracy, latency, users)
-
-`Python` `LangChain` `FastAPI` `ChromaDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [PROJECT NAME 2](https://github.com/sundas619/REPO-2)
-**One-line description of what it does and the problem it solves.**
-
-- 🔹 Key feature / technique used
-- 🔹 Measurable result
-
-`PyTorch` `Transformers` `Hugging Face`
+- 🧠 I work across **Generative AI, LLMs, RAG and Machine Learning**, turning models into real products.
+- 📱 I've shipped **cross-platform mobile apps in React Native** with live API integrations, built for a US-based travel company.
+- 🌐 I build **SEO-optimized websites** that turn visitors into leads.
+- 🎯 I care about clean UX, clean code and measurable results.
+- 🤝 **Open to:** AI/ML Engineer roles · Mobile/Front-end roles · Freelance projects
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 👁️ [PROJECT NAME 3](https://github.com/sundas619/REPO-3)
-**One-line description of what it does and the problem it solves.**
+```python
+class Sundas:
+    role     = "AI Engineer"
+    also     = ["Mobile Dev", "Web Dev"]
+    location = "Pakistan"
+    stack    = {
+        "ai":     ["LLMs", "RAG", "Agents", "ML"],
+        "mobile": ["React Native", "Expo", "TypeScript"],
+        "web":    ["WordPress", "SEO", "HTML/CSS"],
+    }
+    learning = ["LLM fine-tuning", "Multi-agent systems", "MLOps"]
 
-- 🔹 Key feature / technique used
-- 🔹 Measurable result
-
-`OpenCV` `YOLO` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 [PROJECT NAME 4](https://github.com/sundas619/REPO-4)
-**One-line description of what it does and the problem it solves.**
-
-- 🔹 Key feature / technique used
-- 🔹 Measurable result
-
-`Scikit-learn` `XGBoost` `Pandas`
+    def motto(self):
+        return "Ship it. Measure it. Improve it."
+```
 
 </td>
 </tr>
@@ -194,50 +55,114 @@ class Sundas:
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sundas619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundas619&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&langs_count=8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sundas619&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-</p>
+| | |
+|:--|:--|
+| **🧩 Languages** | <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,html,css&perline=10" height="40"/> |
+| **🧠 AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=10" height="40"/> &nbsp; ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
+| **✨ GenAI Skills** | `Prompt Engineering` `RAG` `AI Agents` `Tool Calling` `Embeddings` `Vector Search` `Fine-tuning (LoRA)` `LLM Evaluation` |
+| **📱 Mobile** | <img src="https://skillicons.dev/icons?i=react,androidstudio&perline=10" height="40"/> &nbsp; ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) |
+| **🌐 Web & Backend** | <img src="https://skillicons.dev/icons?i=wordpress,fastapi,flask,nodejs&perline=10" height="40"/> &nbsp; ![SEO](https://img.shields.io/badge/SEO-On--Page-22C55E?style=flat-square&logo=googlesearchconsole&logoColor=white) |
+| **🗄️ Data** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&perline=10" height="40"/> &nbsp; ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **☁️ Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman&perline=10" height="40"/> |
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sundas619&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sundas619&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</p>
+</div>
 
 ---
 
-## 🎯 Currently Focused On
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ [Flight Finder](https://github.com/sundas-stack/flight-finder-app)
+**Real-time flight search mobile app**, built for **Sky Premia LLC**.
+
+Users search by travel dates and requirements, choose departing and return flights, and review a full trip summary. Results come live from integrated flight APIs.
+
+`React Native` `REST APIs` `Mobile UI`
+
+<sub>🔒 Client project: source is private, showcase is public</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 [Sky Avenir Expense](https://github.com/sundas-stack/skyavenir-expense-app)
+**Receipt capture and expense management app.** *Simple. Secure. Efficient.*
+
+One-tap receipt capture, crop and rotate review, categories and business purpose, a status dashboard (Submitted / Processing / Needs Review) and full history.
+
+`React Native` `Expo` `TypeScript`
+
+<sub>📦 [Download the Android APK](https://github.com/sundas-stack/skyavenir-expense-app/releases) · 🛣️ Next: OCR auto-fill</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Sky Premia Website](https://github.com/sundas-stack/Sky-Premia-Wordpress-Website)
+**Premium business-class travel advisory website.**
+
+A navy-and-gold premium brand site built to turn visitors into paid fare-report requests, with a trust section, real fare-savings case studies, a 4-step process and a lead form.
+
+`WordPress` `On-Page SEO` `HTML/CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Projects: Coming Soon
+**LLM, RAG and AI agent projects in progress.**
+
+Next on this profile: a RAG document assistant, an AI agent with tool calling, and ML models. **⭐ Follow to see them first.**
+
+`Python` `LLMs` `RAG` `LangChain`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sundas-stack&show_icons=true&hide_border=true&bg_color=0B1120&title_color=818CF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundas-stack&layout=compact&hide_border=true&bg_color=0B1120&title_color=818CF8&text_color=CBD5E1&langs_count=6"/>
+
+<img src="https://streak-stats.demolab.com?user=sundas-stack&hide_border=true&background=0B1120&ring=6366F1&fire=818CF8&currStreakLabel=818CF8&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=E0E7FF&sideNums=E0E7FF"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sundas-stack&bg_color=0B1120&color=A5B4FC&line=6366F1&point=E0E7FF&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution%20Activity"/>
+
+</div>
+
+---
+
+## 🎯 What I'm Working On
 
 ```text
-[■■■■■■■■■□]  Building production RAG systems & AI agents
-[■■■■■■■□□□]  LLM fine-tuning with LoRA / QLoRA
-[■■■■■■□□□□]  MLOps: CI/CD for ML, monitoring, deployment on cloud
-[■■■■■□□□□□]  Multi-agent orchestration (LangGraph, CrewAI, MCP)
+▸ Building RAG-powered assistants and AI agents with tool calling
+▸ Adding OCR auto-fill to Sky Avenir Expense (AI + mobile)
+▸ Fine-tuning open-source LLMs with LoRA / QLoRA
+▸ Deploying ML models as APIs (FastAPI + Docker)
 ```
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-<p align="center">
-  I'm always open to discussing <b>AI/ML roles</b>, <b>freelance work</b>, and <b>open-source collaborations</b>.<br/>
-  Feel free to reach out. Let's build something intelligent together! ✨
-</p>
+### 🤝 Let's build something together
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/-Send_an_Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+I'm open to **AI/ML Engineer roles**, **mobile/front-end roles** and **freelance projects**.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-</p>
+<a href="mailto:sundasmaria09@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Send_an_Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:1E1B4B,100:0B1120&height=110&section=footer"/>
+
+</div>
