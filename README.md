@@ -24,31 +24,29 @@ I enjoy taking practical problems and turning them into useful software — from
 
 ## Selected Projects
 
-The projects below are the three public project repositories currently available on my GitHub profile.
-
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### Flight Finder
+
+[View repository →](https://github.com/sundas-stack/flight-finder-app)
 
 A React Native mobile application developed for a US-based travel company. Users can search flights by travel dates and requirements, review departing-flight options, select a return flight, and view a trip summary.
 
 **My contribution**
 - Developed the mobile front end.
-- Integrated APIs for dynamic, real-time flight search results.
+- Integrated APIs for dynamic flight search results.
 - Built the search and trip-review user flow.
 
-**Technologies**
-
-`React Native` `TypeScript` `REST APIs`
-
-[Repository and screenshots →](https://github.com/sundas-stack/flight-finder-app)
+**Technologies:** `React Native` `TypeScript` `REST APIs`
 
 </td>
 <td width="50%" valign="top">
 
 ### Sky Avenir Expense
+
+[View repository →](https://github.com/sundas-stack/skyavenir-expense-app)
 
 A mobile application for capturing receipts and submitting expense information. It includes receipt capture or gallery upload, image review, expense details, status tracking, and submission confirmation.
 
@@ -58,47 +56,39 @@ A mobile application for capturing receipts and submitting expense information. 
 - Expense categories and business-purpose details.
 - Submission status dashboard and expense history.
 
-**Technologies**
-
-`React Native` `Expo` `TypeScript`
-
-[Repository and screenshots →](https://github.com/sundas-stack/skyavenir-expense-app)
+**Technologies:** `React Native` `Expo` `TypeScript`
 
 </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Sky Premia — WordPress Website
+
+[View repository →](https://github.com/sundas-stack/Sky-Premia-Wordpress-Website)
 
 A business website for a premium-travel advisory service. The website explains the service, presents travel-fare examples, and guides visitors towards requesting a fare report.
 
 **My contribution**
 - Built and customized the website using WordPress.
-- Created a clean navy-and-gold visual direction.
+- Created a navy-and-gold visual direction.
 - Worked on on-page SEO, page titles, meta descriptions, headings, and image optimization.
 
-**Technologies**
-
-`WordPress` `HTML` `CSS` `SEO`
-
-[Repository and screenshots →](https://github.com/sundas-stack/Sky-Premia-Wordpress-Website)
+**Technologies:** `WordPress` `HTML` `CSS` `SEO`
 
 </td>
 <td width="50%" valign="top">
 
 ### Professional AI Automation
 
+*Client project · Source code private*
+
 In my professional work, I developed an automated receipt-processing workflow that retrieves receipt emails, extracts information using Python, OCR, and LLMs, matches records against an employee database, and routes low-confidence cases for review.
 
-This was completed as client work; its source code is not presented as a public repository.
-
-**Technologies**
-
-`Python` `OCR` `LLMs` `Power Automate Desktop`
+**Technologies:** `Python` `OCR` `LLMs` `Power Automate Desktop`
 
 </td>
-  </tr>
+</tr>
 </table>
 
 ## Technical Skills
